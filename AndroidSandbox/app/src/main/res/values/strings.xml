@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidSandbox</string>
+    <string name="title_activity_card_grid">CardGrid</string>
+    <string name="action_settings">Settings</string>
+</resources>
